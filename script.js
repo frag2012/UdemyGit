@@ -1,2 +1,2 @@
 alert('Хуйло ворлд!!!');
-console.log(2 + 2)
+console.log(2 + 2);
